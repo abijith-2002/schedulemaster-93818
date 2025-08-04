@@ -1,0 +1,4 @@
+@import '../shared/general.css';
+
+/* Calendar widget uses variables set in shared/general.css (colors, fonts, radius, etc.) */
+/* Any component-specific overrides/extensions can go here. */
